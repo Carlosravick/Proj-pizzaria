@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:20.19, sizes:['100g', '530g', '860g'], description:'A Pizza de Mussarela é coberta com molho de tomate, queijo tipo mussarela, azeitonas pretas e orégano e massa com fermentação natural, oferece mais sabor e qualidade à sua mesa.'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:18.00, sizes:['320g', '530g', '860g'], description:'Molho de tomate, mussarela, calabresa fatiada e bacon. Melhor que uma boa pizza de calabresa, só uma incrementada com bastante bacon.'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:17.45, sizes:['320g', '530g', '860g'], description:'Mussarela,Parmesão,Gorgonzola e Catupiry'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:19.77, sizes:['320g', '530g', '860g'], description:'Molho de tomate, mussarela e presunto. Um verdadeiro clássico. Essa opção traz a combinação de sabores que todo mundo ama e se lembra imediatamente quando pensa em pizza.'},
+    {id:5, name:'Sorvete', img:'images/pizza5.png', price:21.43, sizes:['320g', '530g', '860g'], description:'sorvete de creme, barra de chocolate branco em fatias,Cerejas em calda'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:18.55, sizes:['320g', '530g', '860g'], description:'marguerita, calabresa, mussarela, portuguesa e à moda da casa, que junta mussarela e calabresa.'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:22.36, sizes:['320g', '530g', '860g'], description:'creme de chocolate pronto,1 bandeja de morangos fatiados,Granulado de chocolate,Sorvete de creme'}
+];
